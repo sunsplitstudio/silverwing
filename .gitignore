@@ -1,0 +1,6 @@
+# Ignore all IDEA project files
+.idea/
+# Ignore all module files
+*.iml
+# Ignore workspace-specific settings (user-specific)
+*.iws
